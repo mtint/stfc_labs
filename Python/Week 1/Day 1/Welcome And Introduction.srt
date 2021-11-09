@@ -1,0 +1,235 @@
+1
+00:00:04,890 --> 00:00:07,810
+Hello! I'm Bill Boyd.
+
+2
+00:00:07,810 --> 00:00:12,465
+In this course we'll be learning the basics of Python programming.
+
+3
+00:00:12,465 --> 00:00:17,545
+Python has become one of the most popular programming languages, accepted by business,
+
+4
+00:00:17,545 --> 00:00:20,789
+and yet very popular in colleges,
+
+5
+00:00:20,789 --> 00:00:24,640
+and its popularity is rising.
+
+6
+00:00:24,640 --> 00:00:26,510
+So what makes it so popular?
+
+7
+00:00:26,510 --> 00:00:30,080
+Well, for one thing it's so readable.
+
+8
+00:00:30,080 --> 00:00:33,845
+You feel like you're reading an English description of your program,
+
+9
+00:00:33,845 --> 00:00:36,145
+rather than technical code.
+
+10
+00:00:36,145 --> 00:00:41,100
+Since it is so readable and handles so many low level computing details,
+
+11
+00:00:41,100 --> 00:00:46,240
+you can focus on the solution to your problem rather than on the code itself.
+
+12
+00:00:46,240 --> 00:00:47,530
+It is so readable,
+
+13
+00:00:47,530 --> 00:00:51,705
+it's quite pretty just to look at the code.
+
+14
+00:00:51,705 --> 00:00:56,045
+Another reason for its popularity is that it is an interpreted language,
+
+15
+00:00:56,045 --> 00:00:58,240
+so that you don't have to go through the stages of
+
+16
+00:00:58,240 --> 00:01:01,375
+compiling your program before you can run it.
+
+17
+00:01:01,375 --> 00:01:04,875
+You simply run the program after you write it.
+
+18
+00:01:04,875 --> 00:01:08,540
+Python is also free,
+
+19
+00:01:08,540 --> 00:01:11,380
+just download it from the web and install it.
+
+20
+00:01:11,380 --> 00:01:14,145
+There are various websites that offer these downloads,
+
+21
+00:01:14,145 --> 00:01:20,366
+each offering lots of useful Python libraries to simplify your own programming projects.
+
+22
+00:01:20,366 --> 00:01:25,118
+What's special about this course?
+
+23
+00:01:25,118 --> 00:01:29,345
+We use the free Anaconda distribution of Python,
+
+24
+00:01:29,345 --> 00:01:32,725
+although we'll be learning standard Python,
+
+25
+00:01:32,725 --> 00:01:36,320
+this distribution contains features of Py Python and
+
+26
+00:01:36,320 --> 00:01:41,040
+improved interface for Python that makes it even more convenient to use.
+
+27
+00:01:41,040 --> 00:01:45,200
+It allows us to run and write small sections of code,
+
+28
+00:01:45,200 --> 00:01:48,980
+saving us the time and effort of building a whole program.
+
+29
+00:01:48,980 --> 00:01:51,842
+This is not only good for learning and pedagogy,
+
+30
+00:01:51,842 --> 00:01:56,080
+it is convenient when building larger programs.
+
+31
+00:01:56,080 --> 00:02:00,840
+We will write many functions in Python and run them while learning the syntax,
+
+32
+00:02:00,840 --> 00:02:05,495
+functions that perform tasks that we normally think of programs accomplishing.
+
+33
+00:02:05,495 --> 00:02:09,349
+Later after we are comfortable with Python,
+
+34
+00:02:09,349 --> 00:02:14,345
+we will learn how to write and run whole standalone programs.
+
+35
+00:02:14,345 --> 00:02:19,070
+When you finish this course you will be a Python programmer,
+
+36
+00:02:19,070 --> 00:02:24,830
+we introduce you to the environment for developing programs into the basics of Python.
+
+37
+00:02:24,830 --> 00:02:30,000
+From there you can expand your knowledge of Python in the field of your own interest.
+
+38
+00:02:30,000 --> 00:02:34,580
+We specifically focus on learning how to program in Python and leave
+
+39
+00:02:34,580 --> 00:02:38,510
+complex algorithm development to your individual area of interest,
+
+40
+00:02:38,510 --> 00:02:41,915
+whether it be physics, environmental science,
+
+41
+00:02:41,915 --> 00:02:46,990
+government, big data or whatever.
+
+42
+00:02:46,990 --> 00:02:54,130
+What is covered? We first learn how to write functions in Python,
+
+43
+00:02:54,130 --> 00:02:58,045
+moving on to if statements and loops, file and for,
+
+44
+00:02:58,045 --> 00:03:03,286
+to collection data types such as list, tuple, dictionary.
+
+45
+00:03:03,286 --> 00:03:09,035
+Then we learn to read and write text files and CSV files.
+
+46
+00:03:09,035 --> 00:03:13,000
+Think of spreadsheets, we learn to write standalone programs and
+
+47
+00:03:13,000 --> 00:03:17,650
+used the formatting capability of Python to make prettier output.
+
+48
+00:03:17,650 --> 00:03:20,230
+Finally, we put it all together towards a menu
+
+49
+00:03:20,230 --> 00:03:25,850
+driven database application using CSV files to store our data.
+
+50
+00:03:25,850 --> 00:03:31,045
+In this course we have chosen to use the Python 3 programming language.
+
+51
+00:03:31,045 --> 00:03:33,200
+This is the latest version of Python,
+
+52
+00:03:33,200 --> 00:03:37,295
+though Python 2 is still a quite popular language.
+
+53
+00:03:37,295 --> 00:03:39,555
+These two are not quite compatible,
+
+54
+00:03:39,555 --> 00:03:40,817
+but if you know one,
+
+55
+00:03:40,817 --> 00:03:44,400
+it is a simple matter to pick up and use the other.
+
+56
+00:03:44,400 --> 00:03:47,985
+Grading will be done via automating grading software,
+
+57
+00:03:47,985 --> 00:03:51,270
+so you'll be able to see the grade on one of your submitted programs
+
+58
+00:03:51,270 --> 00:03:55,380
+within minutes and resubmit often as you like.
+
+59
+00:03:55,380 --> 00:04:00,000
+The goal here is to ensure that you finish with the skills you need.
